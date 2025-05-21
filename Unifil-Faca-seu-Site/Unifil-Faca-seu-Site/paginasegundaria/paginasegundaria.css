@@ -1,0 +1,66 @@
+.planodefundozed {
+  background-image: url("Zed_0.jpg");
+  /* background-image: url("https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Zed_0.jpg"); */
+  background-size: cover;      
+  background-repeat: no-repeat;
+  background-position: center;
+  height: 100vh; 
+}
+
+.planodefundoaatrox {
+  background-image: url("Aatrox_0.jpg");
+  /* background-image: url("https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Aatrox_0.jpg"); */
+  background-size: cover;      
+  background-repeat: no-repeat;
+  background-position: center;
+  height: 100vh; 
+}
+
+.planodefundoshen {
+  background-image: url("Shen_0.jpg");
+  /* background-image: url("https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Shen_0.jpg"); */
+  background-size: cover;      
+  background-repeat: no-repeat;
+  background-position: center;
+  height: 100vh; 
+}
+
+.planodefundozoe {
+  background-image: url("Zoe_0.jpg");
+  /* background-image: url("https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Zoe_0.jpg"); */
+  background-size: cover;      
+  background-repeat: no-repeat;
+  background-position: center;
+  height: 100vh; 
+}
+
+.link {
+
+  text-decoration: none;
+  color: gold;
+  font-size: 20px;
+  font-family: "Tagesschrift", system-ui;
+  text-shadow: 2px 2px 2px black
+}
+
+p {
+  text-decoration: none;
+  color: white;
+  font-size: 20px;
+  font-family: "Tagesschrift", system-ui;
+  text-shadow: 2px 2px 2px black;
+}
+
+h1 {
+  font-family: "Bebas Neue", sans-serif;
+  font-size: 40px;
+  color: #ffffff;
+  text-shadow: 4px 4px 4px black;
+}
+
+h2 {
+  font-family: "Bebas Neue", sans-serif;
+  font-size: 22px;
+  color: #ffffff;
+  text-shadow: 3px 3px 3px black;
+}
