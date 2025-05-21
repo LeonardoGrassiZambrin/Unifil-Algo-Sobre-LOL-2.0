@@ -1,0 +1,193 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+.tabela {
+  margin: 0 auto;
+  
+  border-collapse: collapse;
+  width: 50%;
+}
+
+th, td {
+  border: 0px solid white;
+  padding: 10px;
+  text-align: center;
+}
+
+.titulo {
+  font-family: "Bebas Neue", sans-serif;
+  text-align: center;
+  font-size: 40px;
+  color: #000000;
+  text-shadow: 1px 1px 1px #778899;
+}
+
+.subtitulo {
+  font-family: "Bebas Neue", sans-serif;
+  text-align: center;
+  font-size: 30px;
+  color: #696969;
+  text-shadow: 1px 1px 1px #778899;
+}
+
+.imagens
+{
+
+  width: 200px;
+  height: 200px;
+  border-radius: 10px;
+}
+
+.link {
+  text-decoration: none;
+  color: gold;
+  font-size: 20px;
+  font-family: "Tagesschrift", system-ui;
+  text-shadow: 2px 2px 2px black;
+  
+}
+
+footer {
+  position: ;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color:	#222222;
+  color: white;
+  text-align: center;
+  padding: ;
+  font-family: "Bebas Neue", sans-serif;
+  font-size: 20px;
+  text-shadow: 1px 1px 1px #778899
+}
+
+.linkFooter {
+  text-decoration: none;
+  color: gold;
+  font-size: 60px;;
+  font-family: "Bebas Neue", system-ui;
+  text-shadow: 2px 2px 2px black
+}
+
+.plano de fundo {
+  background-image: url("https://cmsassets.rgpub.io/sanity/images/dsfx7636/game_data_live/790ff0f287533f90d2d02132c15f54fb85394fdc-496x560.jpg?auto=format&amp;fit=fill&amp;q=80&amp;w=213");
+  background-size: cover;      
+  background-repeat: no-repeat;
+  background-position: center;
+  height: 100vh; 
+}
+
+
+header {
+  padding: 20px;
+  background-color: #f0f0f0;
+  align-items: center;
+  text-align: center;
+}
+
+.logo {
+  width: 120px;
+  display: block;
+  margin-bottom: 10px;
+}
+
+nav ul {
+  align-items: center;
+  text-align: center;
+  list-style: none;
+  
+  padding: 0;
+  display: flex;
+  gap: 20px;
+}
+
+nav a {
+
+  text-decoration: none;
+  color: black;
+  background-color: #ffffff;
+  border: 1px solid #ffff1a;
+  padding: 12px;
+  border-radius: 10px;
+  box-shadow: 1px 1px 4px black;
+  text-align: center;
+  margin: 15px;
+  font-family: "Bebas Neue", system-ui;
+  text-shadow: px px px #000000;
+  box-align: center;
+  align-items: center;
+}
+
+article {
+  flex:3 ;
+  font-family: Rubik;
+  background-color: wheat;
+
+  
+}
+
+
+  aside {
+    flex: 1;
+    background-color: #f4f4f4;
+    padding: 15px;
+    border-left: 1px solid #ccc;
+
+
+  }
+
+main {
+  display: flex;
+  padding: 20px;
+  gap: 20px;
+
+aside ul li {
+  list-style: none;
+  font-family: Rubik;
+
+  
+}
+
+header>h1 {
+text-align: right;
+  
+  
+}
+
+p,{
+  font-family: Rubik;
+  
+}
+
+
+  
+  .planodefundoarcane {
+    background-image: url("arcane.webp");
+   
+    background-size: cover;      
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 100vh; 
+
+
+  
+    
+  }
+
+  section {
+font-family: Rubik;
+  }
+
+  nav {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    background-color: red;
+
+    
+    
+  }
+
